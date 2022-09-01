@@ -1,0 +1,10 @@
+D:\Visaul Studio\köstebek oyunu\köstebek oyunu\bin\Debug\köstebek oyunu.exe.config
+D:\Visaul Studio\köstebek oyunu\köstebek oyunu\bin\Debug\köstebek oyunu.exe
+D:\Visaul Studio\köstebek oyunu\köstebek oyunu\bin\Debug\köstebek oyunu.pdb
+D:\Visaul Studio\köstebek oyunu\köstebek oyunu\obj\Debug\köstebek oyunu.csprojAssemblyReference.cache
+D:\Visaul Studio\köstebek oyunu\köstebek oyunu\obj\Debug\köstebek_oyunu.Form1.resources
+D:\Visaul Studio\köstebek oyunu\köstebek oyunu\obj\Debug\köstebek_oyunu.Properties.Resources.resources
+D:\Visaul Studio\köstebek oyunu\köstebek oyunu\obj\Debug\köstebek oyunu.csproj.GenerateResource.cache
+D:\Visaul Studio\köstebek oyunu\köstebek oyunu\obj\Debug\köstebek oyunu.csproj.CoreCompileInputs.cache
+D:\Visaul Studio\köstebek oyunu\köstebek oyunu\obj\Debug\köstebek oyunu.exe
+D:\Visaul Studio\köstebek oyunu\köstebek oyunu\obj\Debug\köstebek oyunu.pdb
